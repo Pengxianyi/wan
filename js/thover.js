@@ -1,0 +1,1 @@
+$(".t_hover").mouseenter(function(){$(".dropdown_line").slideDown(1e3)}),$(".t_hover").mouseleave(function(){$(".dropdown_line").slideUp(1e3)}),$(".navbar-ent").mouseenter(function(){$(".navbar-ufo").slideDown(500)}),$(".navbar-ent").mouseleave(function(){$(".navbar-ufo").slideUp(500)});
